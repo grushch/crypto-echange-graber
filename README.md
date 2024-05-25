@@ -1,1 +1,1 @@
-# crypto-echange-graber
+# crypto-exchange-graber
